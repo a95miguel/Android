@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <string name="monto">Monto</string>
+    <string name="a_mexico">a México</string>
+    <string name="convertir">Convertir</string>
+    <string name="actualizado">Actualizado</string>
+    <string name="_32_22_11"></string>
+    <string name="informacion_economica_por_banxico">Información económica por Banxico</string>
+    <string name="_23_00"></string>
+    <string name="desde">Desde</string>
+    <string name="textview">error</string>
+
+
+</resources>
